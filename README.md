@@ -8,10 +8,10 @@ Instalacão
   Entity Framework Core - https://learn.microsoft.com/pt-br/ef/core/cli/powershell
 ```
 
-
+```bash
 Para iniciar o Projeto
 #Deletar da pasta Migrations "AppDbContextModelSnapshot"
 #Deletar banco de dados ApiCatalogoDB
 #Entrar no diretorio "\ApiCatalogo" onde esta localizado o "ApiCatalogo.csproj"
 #no powerShell executar - :house_with_garden: dotnet ef database update
-
+```
